@@ -1,0 +1,11 @@
+Model Information:
+* title:	JBaldwin VasePractice
+* source:	https://sketchfab.com/3d-models/jbaldwin-vasepractice-17541357418c4831b1debedf18276675
+* author:	JacksonMGB (https://sketchfab.com/JacksonMGB)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JBaldwin VasePractice" (https://sketchfab.com/3d-models/jbaldwin-vasepractice-17541357418c4831b1debedf18276675) by JacksonMGB (https://sketchfab.com/JacksonMGB) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

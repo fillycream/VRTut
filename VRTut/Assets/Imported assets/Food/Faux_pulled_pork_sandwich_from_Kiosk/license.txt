@@ -1,0 +1,11 @@
+Model Information:
+* title:	Faux pulled pork sandwich from Kiosk
+* source:	https://sketchfab.com/3d-models/faux-pulled-pork-sandwich-from-kiosk-017a12c2ec5245d68c17634242d5a19b
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Faux pulled pork sandwich from Kiosk" (https://sketchfab.com/3d-models/faux-pulled-pork-sandwich-from-kiosk-017a12c2ec5245d68c17634242d5a19b) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
