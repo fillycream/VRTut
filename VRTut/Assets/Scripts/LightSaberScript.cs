@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class LightSaberScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public Animator LightSaberAnimator;
+
+    public void TurnOnLightSaber()
     {
-        
+        LightSaberAnimator.SetTrigger("Turn LightSaber On");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

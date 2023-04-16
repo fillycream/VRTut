@@ -246,7 +246,19 @@ MonoBehaviour:
       m_Calls: []
   m_Activated:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 61669188}
+        m_TargetAssemblyTypeName: LightSaberScript, Assembly-CSharp
+        m_MethodName: TurnOnLightSaber
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   m_Deactivated:
     m_PersistentCalls:
       m_Calls: []
@@ -351,6 +363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99beefa7b9d8910499d4ec57a4ff4dcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LightSaberAnimator: {fileID: 61669189}
 --- !u!95 &61669189
 Animator:
   serializedVersion: 5
