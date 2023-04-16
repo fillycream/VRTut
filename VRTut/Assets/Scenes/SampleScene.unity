@@ -7597,14 +7597,23 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.10490015
-        value: 0.18749489
-        inSlope: 0
-        outSlope: 0
+        time: 0.11208273
+        value: 0.21689588
+        inSlope: -0.6181205
+        outSlope: -0.6181205
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.33333334
+        outWeight: 0.57045305
+      - serializedVersion: 3
+        time: 0.9982892
+        value: 0.013472468
+        inSlope: 0.042835485
+        outSlope: 0.042835485
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.7422957
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -7638,7 +7647,7 @@ LineRenderer:
       m_NumColorKeys: 2
       m_NumAlphaKeys: 2
     numCornerVertices: 0
-    numCapVertices: 7
+    numCapVertices: 0
     alignment: 0
     textureMode: 0
     shadowBias: 0.5
